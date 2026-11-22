@@ -15,7 +15,7 @@
     <a href="listado_torneo.php">Listado de torneos</a>
     <a href="formulario_torneo.php">Agregar un torneo</a>
     <h2>Pagos</h2>
-    <a href="formulario_pagos.php">Agregar un pago</a>
+    <a href="formulario_pago.php">Agregar un pago</a>
     <h2>Jugadores</h2>
     <a href="listado_jugador.php">Listado de jugadores</a>
     <a href="formulario_jugador.php">Agregar un jugador</a>

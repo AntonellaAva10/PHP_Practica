@@ -26,7 +26,7 @@
             ?>
         </select><br><br>
 
-        <laber>fehca de pago: </label><br>
+        <laber>fecha de pago: </label><br>
         <input type="date" name="fecha_pago"><br><br>
 
         <label>importe: </label><br>
